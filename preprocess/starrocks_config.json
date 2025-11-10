@@ -1,7 +1,0 @@
-{
-  "host": "localhost",
-  "port": 9030,
-  "user": "root",
-  "password": "",
-  "database": "text2sql"
-}
